@@ -1,0 +1,1 @@
+[{"id":"d6a083b2.c506a","type":"function","z":"86e44b8b.f22978","name":"","func":"msg.headers={\n    devicekey:\"I0QIp4A0oDX9saAw\"    \n};\n\nmsg.payload=\"Humidity,,170\"\nreturn msg;","outputs":1,"noerr":0,"x":310,"y":240,"wires":[["75d9c38a.eb90dc"]]}]
